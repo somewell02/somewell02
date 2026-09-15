@@ -18,6 +18,6 @@
 <img align="left" alt="Figma" style="width: 22px; margin-right: 10px; pointer-events: none; cursor: default;" src="https://user-images.githubusercontent.com/32201475/195405270-4b96012a-e9f8-493f-8446-0a0046df9a2a.svg" />
 
 
-[telegram]: https://t.me/somewell_sg
+[telegram]: https://t.me/somewell02
 [vk]: https://vk.com/somewell_sg
 [gmail]: mailto:somewell1212@gmail.com
